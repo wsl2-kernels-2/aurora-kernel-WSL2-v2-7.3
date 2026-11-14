@@ -1,4 +1,4 @@
-# xanmod-kernel-WSL2
+# aurora-kernel-WSL2-v2-7.3
 
 ![Xanmod MAIN](https://github.com/Locietta/xanmod-kernel-WSL2/actions/workflows/MAIN.yml/badge.svg?branch=main)
 ![Xanmod LTS](https://github.com/Locietta/xanmod-kernel-WSL2/actions/workflows/LTS.yml/badge.svg?branch=main)
@@ -11,6 +11,7 @@ An **unofficial** [XanMod](https://gitlab.com/xanmod/linux) kernel port for **Wi
 - **Compiled with Clang + ThinLTO** for additional optimizations
 - **Automated builds** via GitHub Actions (always up-to-date)
 - **Multiple CPU-optimized variants** (x64v2, x64v3, Skylake, Zen3)
+- **Linux 7.3 Base**
 
 ## Usage
 
